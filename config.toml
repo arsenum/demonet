@@ -4,8 +4,9 @@ mediator = ["0x90F79bf6EB2c4f870365E785982E1f101E93b906"]
 api_host = "https://demonet-chain-http.lilypad.tech/"
 
 [web3]
+http_rpc_url = "https://demonet-chain-http.lilypad.tech"
 rpc_url = "wss://demonet-chain-ws.lilypad.tech"
-chain_id = 412347
+chain_id = 412346
 controller_address = "0xa85233C63b9Ee964Add6F2cffe00Fd84eb32338f"
 payments_address = "0x2279B7A0a67DB372996a5FaB50D91eAA73d2eBe6"
 storage_address = "0xB7f8BC63BbcaD18155201308C8f3540b07f84F5e"
